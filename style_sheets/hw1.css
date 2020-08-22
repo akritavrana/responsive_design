@@ -1,0 +1,102 @@
+body{
+margin : 0 1%;
+padding : 1% 1%;
+}
+
+
+header{
+  padding:2% 2%;
+  background : #B3B3B3;
+  background-image : url("file:///C:/Users/HARSHA CHINTA/desktop/html/images/photo.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+  text-align:center;
+  text-transform:uppercase;
+  color:white;
+}
+h2{
+  color : black;
+  text-transform:uppercase;
+}
+img{
+display:block;
+border-width:1%;
+border-style:solid;
+border-color:black;
+width:75%;
+margin:10% auto;
+}
+nav a{
+color:black;
+display:inline-block;
+margin:0 8%;
+padding : 5px 20px;
+border-radius: 5px; 
+-webkit-border-radius:5px;
+-moz-border-radius: 5px;
+-o-border-radius: 5px;
+text-decoration:none;
+}
+a.active{
+background:#ffffff;
+color:#7300e6;
+}
+aside{
+display:inline-block;
+float:left;
+width:20%;
+background:#669900;
+}
+section.left{
+background:white;
+display:inline-block;
+float:left;
+width:30%;
+}
+section.right{
+display : inline-block;
+float : left;
+width:60%;
+}
+table{
+color:#06425C;
+margin : 5% 10%;
+padding : 1px;
+background : white;
+width:70%;
+}
+th{
+background : #669900;
+color: white;
+border-width : 1px 1px 3px 1px;
+border-style: solid;
+border-color: #00cc00;
+-webkit-border-radius: 2px 2px 0 0 ;
+border-radius :3px 3px 0 0;
+}
+tr{
+background : #f2f2f2;
+text-align:center;
+opacity : 0.8;
+}
+tr th:first-child{
+text-align:left;
+}
+tr td:first-child{
+text-align:left;
+}
+tr:hover{
+opacity : 1;
+}
+td {
+padding : 5px;
+font-size:80%;
+border-radius : 2px;
+-webkit-border-radius:2px;
+font-family : 'Times New Roman" , Times , serif;
+}

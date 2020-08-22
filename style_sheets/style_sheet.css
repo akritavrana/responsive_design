@@ -1,0 +1,39 @@
+h1{
+background : #666666;
+font-sie: 150%;
+color: #FFFFFF;
+}
+body{
+background : #B3B3B3;
+font-size:150%;
+margin:4%;
+}
+section{
+width : 30%;
+display : inline-block;
+float : left;
+margin-right: 2%;
+}
+header{
+background: #666666;
+text-align: center;
+padding: 15px;
+}
+
+nav{
+font-variant: small-caps;
+font-size:150%
+font-family:Arial,"Time New Roman",serif;
+}
+h2{
+color:#FFFFFF;
+background:#00B7EA;
+
+}
+footer{
+background: #666666;
+clear: both;
+}
+img{
+width:100px;
+}
