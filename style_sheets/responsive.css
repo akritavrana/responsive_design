@@ -68,7 +68,7 @@ footer{
 	text-align:center;
 	text-transform: uppercase;
 }
-@media screen and (min-width : 900px) {
+@media screen and (min-width : 1600px) {
 body{
 	margin: 1%;
 	padding:1%;
